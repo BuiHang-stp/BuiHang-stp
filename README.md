@@ -19,56 +19,40 @@ I’m currently expanding that foundation through VinUniversity’s **AI in Acti
 > *“The goal is to turn data into information, and information into insight.”*  
 > — Carly Fiorina
 
-## 🧩 What I Build
+## ⚙️ What I Build
 
-### 📈 Analytics & BI
+### Analytics & BI
 
-I build end-to-end analytics projects that move from raw data to structured datasets, analysis, and interactive dashboards.
+I build end-to-end analytics projects that move from raw data to structured datasets, analysis, and interactive dashboards. The goal is not just to visualize numbers, but to make the underlying logic clear, trustworthy, and useful for business decisions.
 
-The goal is not just to visualize numbers, but to make the underlying logic clear, trustworthy, and useful for business decisions.
-
-### ⚙️ Data & AI
+### Data & AI
 
 I’m also exploring how AI can support analytical workflows, from problem-solving and data preparation to faster experimentation and better decision support.
 
-### 📝 How I Work
+### How I Work
 
 Across my projects, I focus on understanding the problem first, validating the data carefully, and documenting the process so others can review, reproduce, and build on the work.
 
 ## 🎨 Analytics Toolkit
 
-<div align="center">
-
-  <img src="https://cdn.simpleicons.org/postgresql/5B7FA3" height="26" alt="SQL"/>
-  &nbsp; SQL &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/powerbi/C9A227" height="26" alt="Power BI"/>
-  &nbsp; Power BI &nbsp;&nbsp;&nbsp;
-
-  <b>DAX</b>
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/microsoftexcel/4F7F68" height="26" alt="Excel"/>
-  &nbsp; Excel &nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/jira/607D9E" height="26" alt="Agile"/>
-  &nbsp; Agile
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-6C8299?style=flat" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-B89B5E?style=flat" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-6F9585?style=flat" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Excel-668B78?style=flat" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Agile-71869D?style=flat" alt="Agile"/>
+</p>
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/buithuhang">
-    <img src="https://img.shields.io/badge/LinkedIn-E8EEF4?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-71869D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:buihang.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F3E9E7?style=flat&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-9A7C78?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-</div>
+</p>
 
 <br>
 
