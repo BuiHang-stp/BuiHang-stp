@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I’m Bùi Thu Hằng</h1>
 
 <div align="center">
-  <img src="./analyst.gif" width="120" alt="Data Analyst GIF"/>
+  <i>Data Analyst</i>
 </div>
 
 <div align="center">
-  <i>Data Analyst</i>
+  <img src="./analyst.gif" width="120" alt="Data Analyst GIF"/>
 </div>
 
 ## 🧭 What Guides My Work
@@ -39,11 +39,15 @@ Across my projects, I focus on understanding the problem first, validating the d
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>  
-<img src="https://img.shields.io/badge/DAX-117865?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>  
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>  
-<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
+  <img src="https://img.shields.io/badge/SQL-5B7FA3?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/Power%20BI-C9A227?style=flat&logo=powerbi&logoColor=white" alt="Power BI"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/DAX-5B8F7B?style=flat&logo=powerbi&logoColor=white" alt="DAX"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/Excel-4F7F68?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/Agile-607D9E?style=flat&logo=jira&logoColor=white" alt="Agile"/>
 
 </div>
 
@@ -52,11 +56,11 @@ Across my projects, I focus on understanding the problem first, validating the d
 <div align="center">
 
   <a href="https://www.linkedin.com/in/buithuhang">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6E8499?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:buihang.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-AE7A73?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
 </div>
