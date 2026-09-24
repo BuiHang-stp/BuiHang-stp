@@ -1,10 +1,12 @@
-# <div align="center">👋 Hi there, I’m Bùi Thu Hằng</div>
+<h1 align="center">👋 Hi there, I’m Bùi Thu Hằng</h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW" width="100" alt="Coding GIF"/>
+  <img src="./analyst.gif" width="120" alt="Data Analyst GIF"/>
 </div>
 
-<div align="center"><i>Data Analyst </i></div>
+<div align="center">
+  <i>Data Analyst</i>
+</div>
 
 ## 🧭 What Guides My Work
 
@@ -14,7 +16,7 @@ I focus on understanding the business context, working carefully with data, and 
 
 I’m currently expanding that foundation through VinUniversity’s **AI in Action** program, exploring how AI can support real-world analytics workflows.
 
-> [!The goal is to turn data into information, and information into insight.]
+> *“The goal is to turn data into information, and information into insight.”*  
 > — Carly Fiorina
 
 ## 🧩 What I Build
