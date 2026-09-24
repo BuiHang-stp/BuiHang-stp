@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./analyst.gif" width="120" alt="Data Analyst GIF"/>
+  <img src="./analyst.gif" width="369" alt="Data Analyst GIF"/>
 </div>
 
 ## 🧭 What Guides My Work
