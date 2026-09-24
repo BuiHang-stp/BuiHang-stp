@@ -36,23 +36,30 @@ Across my projects, I focus on understanding the problem first, validating the d
 ## 🎨 Analytics Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-6C8299?style=flat" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-B89B5E?style=flat" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/DAX-6F9585?style=flat" alt="DAX"/>
-  <img src="https://img.shields.io/badge/Excel-668B78?style=flat" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Agile-71869D?style=flat" alt="Agile"/>
+  <img src="https://cdn.simpleicons.org/postgresql/6C8299" height="42" alt="SQL" title="SQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="./assets/powerbi.png" height="42" alt="Power BI" title="Power BI"/>&nbsp;&nbsp;&nbsp;
+  <img src="./assets/dax.png" height="42" alt="DAX" title="DAX"/>&nbsp;&nbsp;&nbsp;
+  <img src="./assets/excel.png" height="42" alt="Excel" title="Excel"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jira/71869D" height="42" alt="Agile" title="Agile"/>
+</p>
+
+<p align="center">
+  <sub>SQL · Power BI · DAX · Excel · Agile</sub>
 </p>
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
+
   <a href="https://www.linkedin.com/in/buithuhang">
-    <img src="https://img.shields.io/badge/LinkedIn-71869D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:buihang.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-9A7C78?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+
+</div>
 
 <br>
 
